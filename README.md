@@ -7,12 +7,19 @@ then n integer numbers.
 Will print out the running median after each input.
 
 Example input:
+
 3 
+
 1
+
 2
+
 3
 
 Output:
+
 1.0
+
 1.5
+
 2.0
